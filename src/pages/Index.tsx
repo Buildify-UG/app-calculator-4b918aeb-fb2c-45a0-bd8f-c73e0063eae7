@@ -1,10 +1,8 @@
 
-import React from 'react';
+import Calculator from '@/components/Calculator';
 
 const Index = () => {
-  return (
-    <></>
-  );
+  return <Calculator />;
 };
 
 export default Index;
